@@ -1,2 +1,6 @@
-# cookbook-selina
-A collection of my favorite recipes
+# Cook book
+
+A collection of my **favorite** recipes
+
+- Pie
+- Stew
